@@ -20,7 +20,7 @@ st.write(f"## 📆 Análisis correspondiente a la fecha: {selected_date.strftime
 # Filtrar los datos para el día seleccionado
 data_filtered = data[data['Dia del reporte'] == pd.Timestamp(selected_date)]
 data_vac=data_filtered.loc[data_filtered['Lugar de administración Nirsevimab']=='Vacunatorio']
-data_mat=data_filtered.loc[data_filtered['Lugar de administración Nirsevimab']=='Maternidad, neonatologia, sala cuna']
+data_mat=data_filtered.loc[data_filtered['Lugar de administración Nirsevimab']=='Maternidad o neonatologia o sala cuna']
 
 # Resumen de vacunatorios que contestaron
 

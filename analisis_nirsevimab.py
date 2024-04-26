@@ -58,7 +58,12 @@ rename_columns = {
     'Nº de dosis Nirsevimab 100 mg traspasadas a un servicio u otra institución': 'Dosis traspaso salida 100 mg',
     'Nº de dosis Nirsevimab 100 mg ingresadas (en caso de realizar retiro o recibir por traspaso)': 'Dosis traspaso entrada 100 mg',
     'Nº de dosis Nirsevimab 100 mg ingresadas':'Dosis traspaso entrada 100 mg',
-    'Nª de dosis de Nirsevimab 100 mg al final de la jornada': 'Dosis final 100 mg'
+    'Nª de dosis de Nirsevimab 100 mg al final de la jornada': 'Dosis final 100 mg',
+    'Nombre del servicio o institución del traspaso1':'Nombre traspaso1',
+    'Institución del retiro o traspaso ':'Institución retiro o traspaso',
+    'Nombre del servicio o institución del traspaso':'Nombre traspaso2',
+    'Observaciones1':'Observaciones'
+
 }
 df_filled.rename(columns=rename_columns, inplace=True)
 df_filled.to_excel("nirsevimab_analizado.xlsx")
