@@ -1229,3 +1229,93 @@
 1227,1264,2024-04-26 09:57:46,2024-04-26 10:01:00,Red Salud Santiago ex Clínica Bicentenario,2024-04-25,Vacunatorio,159,1,0,0.0,0.0,.,.,158,.,105,5,0,0.0,0.0,.,.,100,.,True,True
 1228,1265,2024-04-26 10:00:24,2024-04-26 10:06:46,Procedimientos Clínicos Alto Tabancura,2024-04-25,Vacunatorio,5,0,0,0.0,0.0,0,0,5,0,4,0,0,0.0,0.0,0,0,4,0,True,True
 1229,1266,2024-04-26 10:31:31,2024-04-26 10:32:13,Red Salud Santiago ex Clínica Bicentenario,2024-04-26,Maternidad o neonatologia o sala cuna,7,4,0,0.0,0.0,0,0,3,VACUNAS ADMINISTRADAS EL 25/04/2024,0,0,0,0.0,0.0,0,0,0,0,True,True
+1230,1267,2024-04-26 12:13:54,2024-04-26 12:16:22,Hospital de Carabineros,2024-04-26,Maternidad o neonatologia o sala cuna,3,5,0,0.0,5.0,Vacunatorio HOSCAR ,0,3,El stock total del día es 8. Administré 5 nirsevimab.,0,0,0,0.0,0.0,0,0,0,Vitrina de UPC NEO solo maneja nirsevimab de 50mg.,True,True
+1231,1268,2024-04-26 12:14:41,2024-04-26 12:16:32,Hospital Clínico Universidad de Chile,2024-04-25,Maternidad o neonatologia o sala cuna,16,5,0,0.0,20.0,Vacunatorio Hospital Clínico Universidad de Chile,0,31,0,1,0,0,0.0,0.0,0,0,1,0,True,True
+1232,1269,2024-04-26 12:32:56,2024-04-26 12:34:50,Hospital Clínico Universidad de Chile,2024-04-26,Vacunatorio,14,0,0,0.0,0.0,0,0,14,0,56,3,0,0.0,0.0,0,0,53,0,True,True
+1233,1270,2024-04-26 13:01:37,2024-04-26 13:02:58,Centro Médico Kinerod,2024-04-24,Vacunatorio,6,0,0,0.0,0.0,0,0,6,0,17,1,0,0.0,0.0,0,0,16,0,True,True
+1234,1271,2024-04-26 13:03:00,2024-04-26 13:03:35,Centro Médico Kinerod,2024-04-25,Vacunatorio,6,0,0,0.0,0.0,0,0,6,0,16,0,0,0.0,0.0,0,0,16,0,True,True
+1235,1272,2024-04-26 13:20:11,2024-04-26 13:22:53,Clínica RedSalud Vitacura,2024-04-25,Vacunatorio,6,0,0,0.0,20.0,DVI LOURDES,-,26,0,111,3,0,0.0,0.0,-,-,108,0,True,True
+1236,1273,2024-04-26 14:26:24,2024-04-26 14:36:10,Hospital FACH,2024-04-26,Vacunatorio,16,0,0,0.0,0.0,-,-,16,0,14,0,0,0.0,0.0,-,-,14,0,True,True
+1237,1274,2024-04-26 15:16:36,2024-04-26 15:17:50,Hospital Clínico Redsalud UC CHRISTUS (Marcoleta),2024-04-26,Maternidad o neonatologia o sala cuna,67,8,0,0.0,0.0,0,0,59,0,10,0,0,0.0,0.0,0,0,10,0,True,True
+1238,1275,2024-04-26 15:16:25,2024-04-26 15:18:27,Clínica Dávila,2024-04-26,Vacunatorio,45,0,0,0.0,0.0,0,0,45,0,75,5,0,0.0,0.0,0,0,70,0,True,True
+1239,1276,2024-04-26 15:28:30,2024-04-26 15:29:24,Nueva Clínica Cordillera,2024-04-26,Vacunatorio,23,0,0,0.0,0.0,0,0,23,0,28,0,0,0.0,0.0,0,0,28,0,True,True
+1240,1277,2024-04-26 15:41:58,2024-04-26 15:43:00,Centro Médico Clínica Santa María La Dehesa,2024-04-26,Vacunatorio,55,0,0,0.0,0.0,0,0,55,-,42,1,0,0.0,0.0,0,0,41,-,True,True
+1241,1278,2024-04-26 15:16:33,2024-04-26 15:52:24,Vacunatorio Centro Medico Vidaintegra Alameda,2024-04-26,Vacunatorio,19,0,0,0.0,0.0,0,0,19,0,36,0,0,0.0,0.0,0,0,36,0,True,True
+1242,1279,2024-04-26 15:59:11,2024-04-26 16:01:27,Hospital FACH,2024-04-26,Maternidad o neonatologia o sala cuna,11,0,0,0.0,0.0,0,0,11,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1243,1280,2024-04-26 15:59:44,2024-04-26 16:04:37,Vacunatorio Centro Médico ACHS,2024-04-26,Vacunatorio,5,0,0,0.0,0.0,0,no aplica,5,0,5,0,0,0.0,0.0,0,no aplica,5,0,True,True
+1244,1281,2024-04-26 16:32:04,2024-04-26 16:33:22,Hospital Militar de Santiago,2024-04-26,Vacunatorio,0,0,0,0.0,5.0,DVI,0,5,0,7,6,0,0.0,5.0,DVI,0,6,0,True,True
+1245,1282,2024-04-26 12:49:25,2024-04-26 16:33:30,Red Salud Santiago ex Clínica Bicentenario,2024-04-26,Vacunatorio,158,1,0,30.0,0.0,.,MATERNIDAD RED SALUD SANTIAGO,127,.,100,9,0,0.0,0.0,.,.,91,0,True,True
+1246,1283,2024-04-26 16:39:47,2024-04-26 16:41:04,Hospital Clínico Redsalud UC CHRISTUS (Marcoleta),2024-04-26,Vacunatorio,14,1,0,0.0,0.0,0,0,13,0,88,4,0,0.0,0.0,0,0,84,0,True,True
+1247,1284,2024-04-26 16:01:26,2024-04-26 16:43:06,Clínica Indisa Maipú,2024-04-26,Vacunatorio,17,1,0,0.0,0.0,0,0,16,0,20,2,0,0.0,0.0,0,0,18,0,True,True
+1248,1285,2024-04-26 16:39:55,2024-04-26 16:43:23,Clínica Hospital del Profesor,2024-04-26,Vacunatorio,11,1,0,8.0,0.0,No aplica ,Neonatologia CHP,2,0,26,7,0,0.0,0.0,No aplica ,No aplica ,19,0,True,True
+1249,1286,2024-04-26 16:48:37,2024-04-26 16:53:07,Centro Médico San Joaquín Red de Salud UC CHRISTUS,2024-04-26,Vacunatorio,24,1,0,0.0,0.0,0,0,23,0,78,5,0,0.0,0.0,0,0,73,0,True,True
+1250,1287,2024-04-26 17:00:12,2024-04-26 17:02:45,Nueva Clínica Cordillera,2024-04-26,Maternidad o neonatologia o sala cuna,5,1,0,0.0,0.0,NO APLICA,NO APLICA,4,0,0,0,0,0.0,0.0,NO APLICA,NO APLICA,0,0,True,True
+1251,1288,2024-04-26 17:08:03,2024-04-26 17:09:00,Clínica BUPA Santiago,2024-04-26,Vacunatorio,155,1,0,26.0,0.0,0,sala cuna CBS,128,0,140,3,0,0.0,0.0,0,0,137,0,True,True
+1252,1289,2024-04-25 18:18:33,2024-04-26 17:10:32,Clínica Santa Rosa,2024-04-26,Maternidad o neonatologia o sala cuna,49,9,0,0.0,0.0,0,0,40,0,5,0,0,0.0,0.0,0,0,5,0,True,True
+1253,1290,2024-04-26 17:09:02,2024-04-26 17:10:35,Clínica BUPA Santiago,2024-04-26,Maternidad o neonatologia o sala cuna,16,2,0,0.0,26.0,vacunatorio CBS,0,40,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1254,1291,2024-04-26 17:43:20,2024-04-26 17:45:11,Vacunatorio Darvax,2024-04-26,Vacunatorio,21,0,0,0.0,0.0,0,0,21,0,84,1,0,0.0,0.0,0,0,83,0,True,True
+1255,1292,2024-04-26 17:45:40,2024-04-26 17:46:25,NewVax,2024-04-26,Vacunatorio,11,0,0,0.0,0.0,0,0,11,0,19,0,0,0.0,0.0,0,0,19,0,True,True
+1256,1293,2024-04-26 17:32:39,2024-04-26 17:56:47,Vacunatorio Varik,2024-04-26,Vacunatorio,5,1,0,0.0,0.0,0,0,4,0,7,3,0,0.0,0.0,0,0,4,0,True,True
+1257,1294,2024-04-26 17:58:07,2024-04-26 17:59:28,Centro Médico Kinerod,2024-04-26,Vacunatorio,6,0,0,0.0,0.0,0,0,6,0,16,2,0,0.0,0.0,0,0,14,0,True,True
+1258,1295,2024-04-26 18:06:32,2024-04-26 18:07:38,Clínica Indisa Providencia,2024-04-26,Vacunatorio,100,0,0,0.0,0.0,0,0,100,0,80,16,0,0.0,0.0,0,0,64,0,True,True
+1259,1296,2024-04-26 18:07:34,2024-04-26 18:08:53,Centro Médico Clinica Las Condes de Chicureo (Servicios de Salud Integrados S.A.),2024-04-26,Vacunatorio,1,0,0,0.0,0.0,0,0,1,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1260,1297,2024-04-26 18:17:42,2024-04-26 18:18:27,Clínica Dávila,2024-04-26,Maternidad o neonatologia o sala cuna,167,7,0,0.0,0.0,0,0,160,0,2,0,0,0.0,0.0,0,0,2,0,True,True
+1261,1298,2024-04-26 18:39:47,2024-04-26 18:40:22,Centro Médico y Dental Arauco Salud,2024-04-26,Vacunatorio,19,0,0,0.0,0.0,0,0,19,0,37,0,0,0.0,0.0,0,0,37,0,True,True
+1262,1299,2024-04-26 18:51:01,2024-04-26 18:52:44,VACUMED,2024-04-26,Vacunatorio,5,0,0,0.0,0.0,0,0,5,0,7,0,0,0.0,0.0,0,0,7,0,True,True
+1263,1300,2024-04-26 18:55:05,2024-04-26 18:57:09,Centro de Vacunacion Inmunovac,2024-04-26,Vacunatorio,14,0,0,0.0,0.0,0,0,14,0,18,0,0,0.0,0.0,0,0,18,0,True,True
+1264,1301,2024-04-26 19:00:38,2024-04-26 19:02:21,Centro Médico Clínica Alemana de Chicureo,2024-04-26,Vacunatorio,27,0,0,0.0,0.0,0,0,27,0,137,7,0,0.0,0.0,0,0,130,0,True,True
+1265,1302,2024-04-26 18:14:49,2024-04-26 19:07:41,Vaxprosalud,2024-04-26,Vacunatorio,6,0,0,0.0,0.0,-,-,6,-,50,0,0,0.0,0.0,-,-,50,-,True,True
+1266,1303,2024-04-26 19:12:21,2024-04-26 19:13:21,Centro Médico Alto Tobalaba - Vacunatorio Vacci Protex,2024-04-26,Vacunatorio,8,1,0,0.0,0.0,0,0,7,0,16,0,0,0.0,0.0,0,0,16,0,True,True
+1267,1304,2024-04-26 19:15:41,2024-04-26 19:16:48,Vacunatorio Clínica El Bosque,2024-04-26,Vacunatorio,14,0,0,0.0,0.0,0,0,14,0,12,2,0,0.0,0.0,0,0,10,0,True,True
+1268,1305,2024-04-26 15:47:38,2024-04-26 19:22:12,Clínica Alemana,2024-04-26,Vacunatorio,155,1,0,20.0,0.0,0,recien nacido sano cas,134,0,250,14,0,0.0,0.0,0,0,236,0,True,True
+1269,1306,2024-04-26 19:22:14,2024-04-26 19:25:41,Clínica Alemana,2024-04-26,Maternidad o neonatologia o sala cuna,24,8,0,0.0,20.0,Vacunatorio CAS,0,36,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1270,1307,2024-04-26 19:25:06,2024-04-26 19:26:25,Centro Médico Clínica Alemana (La Dehesa),2024-04-26,Vacunatorio,34,1,0,0.0,0.0,0,0,33,0,51,6,0,0.0,0.0,0,0,45,0,True,True
+1271,1308,2024-04-26 19:37:46,2024-04-26 19:38:29,Hospital Clínico Universidad de los Andes,2024-04-26,Vacunatorio,24,0,0,0.0,0.0,0,0,24,0,94,4,0,0.0,0.0,0,0,90,0,True,True
+1272,1309,2024-04-26 19:41:39,2024-04-26 19:44:31,Clínica Indisa Maipú,2024-04-26,Maternidad o neonatologia o sala cuna,24,1,0,0.0,0.0,0,0,23,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1273,1310,2024-04-26 20:18:20,2024-04-26 20:20:36,Hospital Clínico Universidad de los Andes,2024-04-26,Maternidad o neonatologia o sala cuna,32,8,0,0.0,0.0,0,0,24,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1274,1311,2024-04-26 20:15:36,2024-04-26 20:25:20,Clínica Juan Pablo II,2024-04-24,Maternidad o neonatologia o sala cuna,76,14,0,0.0,0.0,0,0,62,0,5,0,0,0.0,0.0,0,0,5,0,True,True
+1275,1312,2024-04-26 20:25:23,2024-04-26 20:26:17,Clínica Juan Pablo II,2024-04-25,Maternidad o neonatologia o sala cuna,62,0,0,0.0,0.0,0,0,62,0,5,0,0,0.0,0.0,0,0,5,0,True,True
+1276,1313,2024-04-26 20:26:20,2024-04-26 20:27:33,Clínica Juan Pablo II,2024-04-26,Maternidad o neonatologia o sala cuna,62,12,0,0.0,0.0,0,0,50,0,5,0,0,0.0,0.0,0,0,5,0,True,True
+1277,1314,2024-04-27 08:11:42,2024-04-27 08:14:58,Clínica Santa María,2024-04-26,Maternidad o neonatologia o sala cuna,42,8,0,0.0,0.0,0,0,34,0,2,0,0,0.0,0.0,0,0,2,0,True,True
+1278,1315,2024-04-27 08:01:22,2024-04-27 08:16:17,Clínica San Carlos de Apoquindo Redsalud UC CHRISTUS,2024-04-26,Maternidad o neonatologia o sala cuna,4,4,0,0.0,0.0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1279,1316,2024-04-27 08:11:36,2024-04-27 08:21:54,Clínica Indisa Providencia,2024-04-26,Maternidad o neonatologia o sala cuna,75,18,0,0.0,0.0,0,0,57,.,0,0,0,0.0,0.0,0,0,0,.,True,True
+1280,1317,2024-04-27 08:44:01,2024-04-27 08:44:54,Clínica RedSalud Vitacura,2024-04-26,Vacunatorio,26,0,0,0.0,0.0,-,-,26,0,108,3,0,0.0,0.0,-,-,105,0,True,True
+1281,1318,2024-04-27 09:57:32,2024-04-27 09:58:57,Procedimientos Clínicos Alto Tabancura,2024-04-26,Vacunatorio,5,0,0,0.0,0.0,0,0,5,0,4,0,0,0.0,0.0,0,0,4,0,True,True
+1282,1319,2024-04-27 10:08:07,2024-04-27 10:10:11,Clínica Santa María,2024-04-26,Vacunatorio,169,5,0,0.0,0.0,0,0,164,0,79,12,0,0.0,0.0,0,0,67,0,True,True
+1283,1320,2024-04-27 12:30:46,2024-04-27 12:31:50,Centro Médico Clínica Alemana de Chicureo,2024-04-27,Vacunatorio,27,0,0,0.0,0.0,0,0,27,0,130,2,0,0.0,0.0,0,0,128,0,True,True
+1284,1321,2024-04-27 12:41:04,2024-04-27 12:42:33,Clínica Santa María,2024-04-27,Vacunatorio,164,1,0,0.0,0.0,0,0,163,0,67,2,0,0.0,0.0,0,0,65,0,True,True
+1285,1322,2024-04-27 12:52:25,2024-04-27 12:53:05,NewVax,2024-04-27,Vacunatorio,11,0,0,0.0,0.0,0,0,11,0,19,1,0,0.0,0.0,0,0,18,0,True,True
+1286,1323,2024-04-27 13:05:08,2024-04-27 13:06:34,Vacunatorio Varik,2024-04-27,Vacunatorio,4,0,0,0.0,0.0,0,0,4,0,4,3,0,0.0,0.0,0,0,1,0,True,True
+1287,1324,2024-04-27 13:10:48,2024-04-27 13:12:50,Clínica Alemana,2024-04-27,Vacunatorio,134,0,0,0.0,0.0,0,0,134,0,236,10,0,0.0,0.0,0,00,226,dos pacientes LRS,True,True
+1288,1325,2024-04-27 13:12:52,2024-04-27 13:13:28,Clínica Alemana,2024-04-27,Maternidad o neonatologia o sala cuna,32,1,0,0.0,0.0,0,0,31,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1289,1326,2024-04-27 12:48:21,2024-04-27 13:14:34,Centro Médico Kinerod,2024-04-27,Vacunatorio,6,0,0,0.0,0.0,0,0,6,0,14,0,0,0.0,0.0,0,0,14,0,True,True
+1290,1327,2024-04-27 13:06:59,2024-04-27 13:19:11,Centro Médico Clínica Alemana (La Dehesa),2024-04-27,Vacunatorio,33,0,0,0.0,0.0,0,0,33,0,45,2,0,0.0,0.0,0,0,43,0,True,True
+1291,1328,2024-04-27 13:07:28,2024-04-27 13:26:32,Centro de Vacunacion Inmunovac,2024-04-27,Vacunatorio,14,0,0,0.0,0.0,0,0,14,0,18,1,0,0.0,0.0,0,0,17,0,True,True
+1292,1329,2024-04-27 13:45:25,2024-04-27 13:49:16,VACUMED,2024-04-27,Vacunatorio,5,1,0,0.0,0.0,0,0,4,0,7,0,0,0.0,0.0,0,0,7,0,True,True
+1293,1330,2024-04-27 13:39:07,2024-04-27 13:55:07,Centro Médico Alto Tobalaba - Vacunatorio Vacci Protex,2024-04-27,Vacunatorio,7,0,0,0.0,0.0,0,0,7,0,16,1,0,0.0,0.0,0,0,15,0,True,True
+1294,1331,2024-04-27 14:10:49,2024-04-27 14:12:48,Clínica Indisa Providencia,2024-04-27,Vacunatorio,100,0,0,0.0,0.0,0,0,100,0,64,6,0,0.0,0.0,0,0,58,0,True,True
+1295,1332,2024-04-27 14:37:25,2024-04-27 14:38:48,Clínica Indisa Maipú,2024-04-27,Vacunatorio,16,0,0,0.0,0.0,0,0,16,0,18,0,0,0.0,0.0,0,0,18,0,True,True
+1296,1333,2024-04-27 16:38:57,2024-04-27 16:41:37,Clínica Dávila,2024-04-27,Maternidad o neonatologia o sala cuna,160,7,0,0.0,0.0,0,0,153,0,2,0,0,0.0,0.0,0,0,2,0,True,True
+1297,1334,2024-04-27 19:33:50,2024-04-27 19:37:07,Clínica Indisa Maipú,2024-04-27,Maternidad o neonatologia o sala cuna,23,0,0,0.0,0.0,0,0,23,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1298,1335,2024-04-28 08:26:07,2024-04-28 08:30:51,Clínica Santa María,2024-04-27,Maternidad o neonatologia o sala cuna,34,6,0,0.0,0.0,0,0,28,0,2,0,0,0.0,0.0,0,0,2,0,True,True
+1299,1336,2024-04-28 09:22:42,2024-04-28 09:29:40,Clínica Indisa Providencia,2024-04-27,Maternidad o neonatologia o sala cuna,57,5,0,0.0,0.0,0,0,52,.,0,0,0,0.0,0.0,N/AA,0,0,.,True,True
+1300,1337,2024-04-28 13:33:22,2024-04-28 13:36:27,Clínica Dávila,2024-04-28,Maternidad o neonatologia o sala cuna,153,0,0,0.0,0.0,0,0,153,0,2,0,0,0.0,0.0,0,0,2,0,True,True
+1301,1338,2024-04-28 19:49:56,2024-04-28 19:51:24,Clínica Indisa Maipú,2024-04-28,Maternidad o neonatologia o sala cuna,23,1,0,0.0,0.0,0,0,22,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1302,1339,2024-04-28 22:49:40,2024-04-28 22:52:11,Vaxprosalud,2024-04-27,Vacunatorio,6,0,0,0.0,0.0,-,-,6,-,50,0,0,0.0,0.0,-,-,50,-,True,True
+1303,1340,2024-04-29 08:18:35,2024-04-29 08:20:09,Clínica Indisa Providencia,2024-04-28,Maternidad o neonatologia o sala cuna,52,6,0,0.0,0.0,0,0,46,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1304,1341,2024-04-29 08:29:27,2024-04-29 08:30:18,Clínica Santa María,2024-04-28,Maternidad o neonatologia o sala cuna,34,6,0,0.0,0.0,0,0,28,0,2,0,0,0.0,0.0,0,0,2,0,True,True
+1305,1342,2024-04-29 08:29:03,2024-04-29 08:30:28,Clínica San Carlos de Apoquindo Redsalud UC CHRISTUS,2024-04-28,Maternidad o neonatologia o sala cuna,5,5,5,0.0,0.0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,False,True
+1306,1343,2024-04-29 08:29:12,2024-04-29 08:30:43,Consultorio Tantauco,2024-04-26,Vacunatorio,5,0,0,0.0,0.0,0,0,5,0,12,0,0,0.0,0.0,0,0,12,0,True,True
+1307,1344,2024-04-29 09:01:59,2024-04-29 09:04:45,Clínica San Carlos de Apoquindo Redsalud UC CHRISTUS,2024-04-26,Vacunatorio,130,1,0,4.0,0.0,0,Maternidad,125,0,77,4,0,0.0,0.0,0,0,73,0,True,True
+1308,1345,2024-04-29 09:05:13,2024-04-29 09:06:09,Clínica San Carlos de Apoquindo Redsalud UC CHRISTUS,2024-04-27,Vacunatorio,125,0,0,0.0,0.0,0,0,125,0,73,0,0,0.0,0.0,0,0,73,0,True,True
+1309,1346,2024-04-29 09:20:31,2024-04-29 09:21:17,Centro Médico Clinica Las Condes de Chicureo (Servicios de Salud Integrados S.A.),2024-04-27,Vacunatorio,1,0,0,0.0,0.0,0,0,1,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1310,1347,2024-04-29 09:19:33,2024-04-29 09:21:48,Clínica Las Condes Estoril,2024-04-26,Vacunatorio,153,0,0,0.0,0.0,0,0,153,0,108,5,0,0.0,0.0,0,0,103,0,True,True
+1311,1348,2024-04-29 09:21:50,2024-04-29 09:22:37,Clínica Las Condes Estoril,2024-04-26,Maternidad o neonatologia o sala cuna,3,3,0,0.0,0.0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1312,1349,2024-04-29 09:22:39,2024-04-29 09:24:01,Clínica Las Condes Estoril,2024-04-27,Vacunatorio,153,0,0,0.0,0.0,0,0,153,0,103,3,0,0.0,0.0,0,0,100,0,True,True
+1313,1350,2024-04-29 09:24:03,2024-04-29 09:24:38,Clínica Las Condes Estoril,2024-04-27,Maternidad o neonatologia o sala cuna,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1314,1351,2024-04-29 09:29:41,2024-04-29 09:32:41,Hospital FACH,2024-04-27,Maternidad o neonatologia o sala cuna,11,2,0,0.0,0.0,0,0,9,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1315,1352,2024-04-29 09:32:44,2024-04-29 09:33:30,Hospital FACH,2024-04-28,Maternidad o neonatologia o sala cuna,9,0,0,0.0,0.0,0,0,9,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1316,1353,2024-04-29 09:33:16,2024-04-29 09:36:03,Red Salud Santiago ex Clínica Bicentenario,2024-04-26,Maternidad o neonatologia o sala cuna,33,6,0,0.0,0.0,0,0,27,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1317,1354,2024-04-29 09:36:20,2024-04-29 09:37:20,Red Salud Santiago ex Clínica Bicentenario,2024-04-27,Maternidad o neonatologia o sala cuna,27,8,0,0.0,0.0,0,0,19,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1318,1355,2024-04-29 09:37:36,2024-04-29 09:39:00,Red Salud Santiago ex Clínica Bicentenario,2024-04-28,Maternidad o neonatologia o sala cuna,19,6,0,0.0,0.0,0,0,13,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+1319,1356,2024-04-29 09:43:50,2024-04-29 09:45:10,Clínica RedSalud Vitacura,2024-04-27,Vacunatorio,26,0,0,0.0,0.0,-,-,26,0,105,2,0,0.0,0.0,-,-,103,0,True,True
