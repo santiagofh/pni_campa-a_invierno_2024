@@ -65,6 +65,17 @@ rename_columns = {
     'Observaciones1':'Observaciones'
 
 }
+#%%
+# 'Clínica Juan Pablo II'- No tiene vacunatorio
+# 'Clínica Santa Rosa'- No tiene vacunatorio
+df_filled_1=df_filled.loc[
+    (df_filled['Nombre del Vacunatorio']=='Clínica Juan Pablo II')&
+    (df_filled['Lugar de administración Nirsevimab']=='Vacunatorio')]
+df_filled_2=df_filled.loc[
+    (df_filled['Nombre del Vacunatorio']=='Clínica Santa Rosa')&
+    (df_filled['Lugar de administración Nirsevimab']=='Vacunatorio')]
+
+#%%
 df_filled.rename(columns=rename_columns, inplace=True)
 df_filled.to_excel("nirsevimab_analizado.xlsx")
 df_filled.to_csv("nirsevimab_analizado.csv")
