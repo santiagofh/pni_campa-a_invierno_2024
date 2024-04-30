@@ -112,3 +112,22 @@ incorrect_100mg = data_filtered[~data_filtered['Final_Dose_Check_100mg']][[
 ]]
 st.dataframe(incorrect_100mg, use_container_width=True)
 # %%
+st.subheader('Total de nirsevimab al finalizar la jornada de los establecimientos reportados para 50 y 100 mg')
+
+# %%
+# Calculate total final doses for 50 mg and 100 mg
+final_doses = data_filtered.groupby('Lugar de administración Nirsevimab').agg({
+    'Dosis final 50 mg': 'sum',
+    'Dosis final 100 mg': 'sum'
+}).reset_index()
+
+# Rename columns for clarity
+final_doses.rename(columns={
+    'Lugar de administración Nirsevimab': 'Tipo de Establecimiento',
+    'Dosis final 50 mg': 'Total Final Dosis 50 mg',
+    'Dosis final 100 mg': 'Total Final Dosis 100 mg'
+}, inplace=True)
+
+# Display the dataframe in Streamlit
+st.subheader('Stock Final de Nirsevimab por Tipo de Establecimiento')
+st.dataframe(final_doses, use_container_width=True)
