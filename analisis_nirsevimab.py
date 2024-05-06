@@ -1,6 +1,6 @@
 #%%
 import pandas as pd
-df=pd.read_excel("Campaña Invierno Nirsevimab 2024.xlsx")
+df=pd.read_excel(r"C:\Users\fariass\SUBSECRETARIA DE SALUD PUBLICA\Valeria Garay Monge - Nirsevimab\Campaña Invierno Nirsevimab 2024.xlsx")
 df.columns = [col.replace('\xa0', ' ') for col in df.columns]
 df.columns = [col.replace('\u00A0', ' ') for col in df.columns]
 
