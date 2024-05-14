@@ -77,6 +77,6 @@ df_filled_2=df_filled.loc[
 
 #%%
 df_filled.rename(columns=rename_columns, inplace=True)
-df_filled.to_excel(r"C:\Users\fariass\SUBSECRETARIA DE SALUD PUBLICA\Valeria Garay Monge - Nirsevimab\nirsevimab_analizado.xlsx")
-df_filled.to_csv(r"C:\Users\fariass\SUBSECRETARIA DE SALUD PUBLICA\Valeria Garay Monge - Nirsevimab\nirsevimab_analizado.csv")
+df_filled.to_excel(r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\PNI\pni_campa-a_invierno_2024\nirsevimab_analizado.xlsx")
+df_filled.to_csv(r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\PNI\pni_campa-a_invierno_2024\nirsevimab_analizado.csv")
 # %%
