@@ -16,8 +16,6 @@ no_vacunatorios=[
     'Clínica Juan Pablo II',
     'Clínica Santa Rosa',
 ]
-
-
 df_establecimientos_vacunatorio=df_establecimientos.loc[~(df_establecimientos['Todos los establecimientos'].isin(no_vacunatorios))]
 df_establecimientos_vacunatorio=df_establecimientos_vacunatorio.drop_duplicates(subset=['Todos los establecimientos'])
 #%%
