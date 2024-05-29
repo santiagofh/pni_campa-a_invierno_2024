@@ -18,5 +18,3 @@ git commit -m "%commitMessage%"
 
 REM Subir los cambios a la rama main
 git push origin main
-
-pause
