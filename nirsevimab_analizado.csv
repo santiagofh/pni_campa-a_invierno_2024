@@ -4563,9 +4563,9 @@
 4561,4598,2024-07-08 15:37:17,2024-07-08 15:38:20,Hospital Clínico Redsalud UC CHRISTUS (Marcoleta),2024-07-06,Maternidad o neonatologia o sala cuna,16,6,0,0.0,0.0,0,0,10,0,10,0,0,0.0,0.0,0,0,10,0,True,True
 4562,4599,2024-07-08 15:38:23,2024-07-08 15:39:37,Hospital Clínico Redsalud UC CHRISTUS (Marcoleta),2024-07-07,Maternidad o neonatologia o sala cuna,10,3,0,0.0,0.0,0,0,7,0,10,0,0,0.0,0.0,0,0,10,0,True,True
 4563,4600,2024-07-08 15:40:14,2024-07-08 15:40:25,Hospital FACH,2024-07-07,Vacunatorio,1,0,0,0.0,0.0,0,-,1,0,9,0,0,0.0,0.0,-,-,9,0,True,True
-4564,4601,2024-07-08 15:39:41,2024-07-08 15:41:38,Hospital Clínico Redsalud UC CHRISTUS (Marcoleta),2024-07-08,Maternidad o neonatologia o sala cuna,7,4,0,0.0,20.0, 'VACUNATORIO MARCOLETA ,0,23,0,10,0,0,0.0,0.0,0,0,10,0,True,True
-4565,4602,2024-07-08 15:40:33,2024-07-08 15:42:17,Hospital FACH,2024-07-08,Vacunatorio,1,0,0,0.0,0.0,-,-,1,0,9,0,0,0.0,0.0,-,-,9,0,True,True
-4566,4603,2024-07-08 16:07:24,2024-07-08 16:07:52,Clínica Santa María,2024-07-08,Vacunatorio,72,0,0,0.0,0.0,0,0,72,0,212,0,0,0.0,0.0,0,0,212,0,True,True
+4564,4602,2024-07-08 15:40:33,2024-07-08 15:42:17,Hospital FACH,2024-07-08,Vacunatorio,1,0,0,0.0,0.0,-,-,1,0,9,0,0,0.0,0.0,-,-,9,0,True,True
+4565,4603,2024-07-08 16:07:24,2024-07-08 16:07:52,Clínica Santa María,2024-07-08,Vacunatorio,72,0,0,0.0,0.0,0,0,72,0,212,0,0,0.0,0.0,0,0,212,0,True,True
+4566,4601,2024-07-08 15:39:41,2024-07-08 15:41:38,Hospital Clínico Redsalud UC CHRISTUS (Marcoleta),2024-07-08,Maternidad o neonatologia o sala cuna,7,4,0,0.0,20.0, 'VACUNATORIO MARCOLETA ,0,23,0,10,0,0,0.0,0.0,0,0,10,0,True,True
 4567,4604,2024-07-08 16:10:06,2024-07-08 16:16:05,Hospital Clínico Universidad de los Andes,2024-07-08,Maternidad o neonatologia o sala cuna,26,3,0,0.0,0.0,0,0,23,Entrega correspondiente al fin de semana,0,0,0,0.0,0.0,0,0,0,0,True,True
 4568,4605,2024-07-08 16:17:17,2024-07-08 16:19:26,Red Salud Santiago ex Clínica Bicentenario,2024-07-08,Vacunatorio,5,0,0,0.0,0.0,.,.,5,0,32,0,0,0.0,0.0,.,.,32,0,True,True
 4569,4606,2024-07-05 10:15:13,2024-07-08 16:21:09,Vaxprosalud,2024-07-05,Vacunatorio,6,0,0,0.0,0.0,-,-,6,-,39,0,0,0.0,0.0,-,-,39,-,True,True
@@ -4610,3 +4610,15 @@
 4608,4645,2024-07-09 09:24:56,2024-07-09 09:25:58,Clínica San Carlos de Apoquindo Redsalud UC CHRISTUS,2024-07-08,Vacunatorio,95,0,0,1.0,0.0,0,MATERNIDAD,94,0,31,0,0,0.0,0.0,0,0,31,0,True,True
 4609,4646,2024-07-09 09:02:52,2024-07-09 09:28:30,Clínica Indisa Providencia,2024-07-08,Maternidad o neonatologia o sala cuna,55,15,0,0.0,0.0,No aplica,No aplica,40,No aplica,0,0,0,0.0,0.0,No aplica,No aplica,0,No aplica,True,True
 4610,4647,2024-07-09 09:48:47,2024-07-09 09:49:43,Centro Médico Alto Tobalaba - Vacunatorio Vacci Protex,2024-07-08,Vacunatorio,7,0,0,0.0,0.0,0,0,7,0,6,0,0,0.0,6.0,0,0,6,0,True,False
+4611,4648,2024-07-09 10:11:25,2024-07-09 10:12:29,Procedimientos Clínicos Alto Tabancura,2024-07-08,Vacunatorio,4,0,0,0.0,0.0,0,0,4,0,1,1,0,0.0,0.0,0,0,0,0,True,True
+4612,4649,2024-07-09 10:23:19,2024-07-09 10:27:47,Hospital FACH,2024-07-09,Maternidad o neonatologia o sala cuna,10,0,0,0.0,0.0,0,0,10,0,0,0,0,0.0,0.0,0,0,0,0,True,True
+4613,4650,2024-07-09 10:38:20,2024-07-09 10:40:47,Clínica Hospital del Profesor,2024-07-08,Maternidad o neonatologia o sala cuna,2,4,0,0.0,15.0,Vacunatorio central,No aplica,13,0,0,0,0,0.0,0.0,No aplica,No aplica,0,0,True,True
+4614,4651,2024-07-09 10:49:57,2024-07-09 10:51:59,Hospital de Carabineros,2024-07-01,Maternidad o neonatologia o sala cuna,5,1,0,0.0,0.0,0,0,4,Se administra una dosis ,0,0,0,0.0,0.0,0,0,0,Vitrina de UPC Neonatal solo maneja Nirsevimab de 50mg,True,True
+4615,4652,2024-07-09 10:52:01,2024-07-09 10:52:50,Hospital de Carabineros,2024-07-02,Maternidad o neonatologia o sala cuna,4,0,0,0.0,0.0,0,0,4,No se administran Nirsevimab de 50mg hoy,0,0,0,0.0,0.0,0,0,0,Vitrina de UPC Neonatal solo maneja Nirsevimab de 50mg,True,True
+4616,4653,2024-07-09 10:52:52,2024-07-09 10:53:53,Hospital de Carabineros,2024-07-03,Maternidad o neonatologia o sala cuna,4,0,0,0.0,0.0,0,0,4,No se administran Nirsevimab de 50mg hoy,0,0,0,0.0,0.0,0,0,0,Vitrina de UPC Neonatal solo maneja Nirsevimab de 50mg,True,True
+4617,4654,2024-07-09 10:53:56,2024-07-09 10:54:52,Hospital de Carabineros,2024-07-04,Maternidad o neonatologia o sala cuna,4,3,0,0.0,0.0,0,0,1,Se administran 3 dosis de Nirsevimab de 50mg,0,0,0,0.0,0.0,0,0,0,Vitrina de UPC Neonatal solo maneja Nirsevimab de 50mg,True,True
+4618,4655,2024-07-09 10:52:48,2024-07-09 10:55:48,Hospital de Carabineros,2024-07-08,Vacunatorio,24,0,0,0.0,0.0,0,0,24,0,27,0,0,0.0,0.0,0,0,27,0,True,True
+4619,4656,2024-07-09 10:54:54,2024-07-09 10:57:16,Hospital de Carabineros,2024-07-05,Maternidad o neonatologia o sala cuna,1,0,0,0.0,5.0,VACUNATORIO HOSCAR,0,6,No se administran Nirsevimab de 50mg hoy,0,0,0,0.0,0.0,0,0,0,Vitrina de UPC Neonatal solo maneja Nirsevimab de 50mg,True,True
+4620,4657,2024-07-09 10:57:18,2024-07-09 10:58:11,Hospital de Carabineros,2024-07-06,Maternidad o neonatologia o sala cuna,6,1,0,0.0,0.0,0,0,5,se administra una dosis de Nirsevimab de 50 mg,0,0,0,0.0,0.0,0,0,0,Vitrina de UPC Neonatal solo maneja Nirsevimab de 50mg,True,True
+4621,4658,2024-07-09 10:58:13,2024-07-09 11:00:24,Hospital de Carabineros,2024-07-07,Maternidad o neonatologia o sala cuna,4,1,0,0.0,0.0,0,0,3,Se administra una dosis de Nirsevimab de 50mg,0,0,0,0.0,0.0,0,0,0,Vitrina de UPC Neonatal solo maneja Nirsevimab de 50mg,True,True
+4622,4659,2024-07-09 11:00:26,2024-07-09 11:01:05,Hospital de Carabineros,2024-07-08,Maternidad o neonatologia o sala cuna,3,0,0,0.0,0.0,0,0,3,No administro Nirsevimab de 50mg hoy,0,0,0,0.0,0.0,0,0,0,Vitrina de UPC Neonatal solo maneja Nirsevimab de 50mg,True,True
